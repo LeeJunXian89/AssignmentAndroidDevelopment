@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">290851148662-u4sdl5onhtpsjljkq2uq44e8dqoptroi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://finalversionmoviebooking.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">290851148662</string>
+    <string name="google_api_key" translatable="false">AIzaSyB22RW8NLMiarx2N9CXIQy8jHzEze9r5jA</string>
+    <string name="google_app_id" translatable="false">1:290851148662:android:894c661c81478b16a22057</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB22RW8NLMiarx2N9CXIQy8jHzEze9r5jA</string>
+    <string name="google_storage_bucket" translatable="false">finalversionmoviebooking.appspot.com</string>
+    <string name="project_id" translatable="false">finalversionmoviebooking</string>
+</resources>
